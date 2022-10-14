@@ -9,7 +9,7 @@
 > ***More about myself :-***<br>
 >>I completed my ***HighSchool*** and ***Senior Secondry*** from ***Gautam Budh inter college mulhipur*** saharanpur(247001)India.
 I completed my ***Polytechnic*** from ***Dev bhoomi group of institutions saharanpur*** with ***74%*** marks in ***2021***.
-i joined ***stylework*** as ***Android Developer intern*** at ***27 Jan 2022*** to ***27 Apr 2022*** after my internship i joined ***stylework*** full time ***Android Developer*** at 28 Apr to now. Currently i learning ***DSA*** and learning more about ***android app developement***.
+i joined ***stylework*** as ***Android Developer intern*** at ***27 Jan 2022*** to ***27 Apr 2022*** after my internship i joined ***stylework*** full time ***Android Developer*** at 28 Apr 2022 to now. Currently i learning ***DSA*** and learning more about ***android app developement***.
 
 >***Last Note :-*** <br>
 >> *It's always difficult to keep motiveting myself but there always something that push me to do hardwork do stuff , learn new thinhgs .so i keep running to my goals i know its difficult but not so difficult there always hope to break the traditional rules and create somthing bigger then every thing.*
