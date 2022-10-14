@@ -5,7 +5,7 @@
 - 👋 Hi, I’m ***Sorabh Kumar*** I'm working as ***Android developer*** at ***Stylework innovation***.
 - 👀 I’m interested in ***programming*** and ***Software development***.
 - 🌱 I’m currently learning new ***DSA*** to improve my ***logical thinking*** and writing ***efficient*** code.
-- 📫 How to reach me ***[Email](sorabhkumadeveloper@gmail.com)***.<br>
+- 📫 How to reach me through my Gmail Id ***sorabhkumadeveloper@gmail.com***.<br>
 > ***More about myself :-***<br>
 >>I completed my ***HighSchool*** and ***Senior Secondry*** from ***Gautam Budh inter college mulhipur*** saharanpur(247001)India.
 I completed my ***Polytechnic*** from ***Dev bhoomi group of institutions saharanpur*** with ***74%*** marks in ***2021***.
