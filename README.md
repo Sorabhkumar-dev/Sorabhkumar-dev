@@ -13,7 +13,7 @@ i joined ***stylework*** as ***Android Developer intern*** at ***27 Jan 2022*** 
 
 >***Last Note :-*** <br>
 >> *It's always difficult to keep motiveting myself but there always something that push me to do hardwork do stuff , learn new thinhgs .so i keep running to my goals i know its difficult but not so difficult there always hope to break the traditional rules and create somthing bigger then every thing.*
-#### 🧰 Languages and Tools
+#### 🧰 *Languages and Tools*
 
 <table border="0">
  <tr>
@@ -57,3 +57,8 @@ i joined ***stylework*** as ***Android Developer intern*** at ***27 Jan 2022*** 
     </td>
  </tr>
 </table>
+
+#### 🛄 *My personal project* <br>
+checkout my personal project that i built for gaining knowledge and practicing my codding skill👇.<br>
+> - 🛒 E-Commerce Store [Truly mart](https://github.com/Sorabhkumar-dev/mvvm-using-usecase-and-flow)   👉[Try-out here](https://drive.google.com/file/d/1zDxYUWhx0HmgeGfGyDCJETA7R0fKALCo/view?usp=drivesdk).
+> - 📱 Social Media App [Truly social](https://github.com/Sorabhkumar-dev/social-media-app)   👉[Try-out here](https://drive.google.com/file/d/1zFj6BTBe6s_aA-wWKXp-RH19vizLLR_W/view?usp=drivesdk).
