@@ -22,7 +22,7 @@ i joined ***stylework*** as ***Android Developer intern*** at ***27 Jan 2022*** 
 *Check-out here ↪️ **[Grab food](https://github.com/Sorabhkumar-dev/food-odering-app)***</br>
 
 2.🛒  E-Commerce Store App  👉[Try-out here](https://drive.google.com/file/d/1zDxYUWhx0HmgeGfGyDCJETA7R0fKALCo/view?usp=drivesdk).</br>
- <img src="https://github.com/Sorabhkumar-dev/mvvm-using-usecase-and-flow/blob/master/app/src/main/res/drawable/ic_launcher.png" alt="E-Commerce Store " height="200"/></br>
+ <img src="https://github.com/Sorabhkumar-dev/mvvm-using-usecase-and-flow/blob/master/app/src/main/res/drawable/ic_launcher.png" alt="E-Commerce Store " height="170"/></br>
 *Check-out here ↪️ **[Truly mart](https://github.com/Sorabhkumar-dev/mvvm-using-usecase-and-flow)***</br>
 
 3.📱  Social Media App  👉[Try-out here](https://drive.google.com/file/d/1zFj6BTBe6s_aA-wWKXp-RH19vizLLR_W/view?usp=drivesdk).</br>
