@@ -1,15 +1,20 @@
-***Sorabh Kumar*** <br>
+<div id="header" align="center">
+  <img src="https://www.puttiapps.com/services/web-development/programming/" width="200"/><br>
+ <h3><i><b>Sorabh Kumar  👋</b></i></h3>
+ 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sorabhkumar-dev/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/this_sorabh/?hl=en)
 [![Github](https://img.shields.io/github/followers/Sorabhkumar-dev?label=Follow&style=social)](https://github.com/Sorabhkumar-dev)
+</div>
+
 - 👋 Hi, I’m ***Sorabh Kumar*** I'm working as ***Android developer*** at ***Stylework innovation***.
-- 👀 I’m interested in ***programming*** and ***Software development***.
-- 🌱 I’m currently learning new ***DSA*** to improve my ***logical thinking*** and writing ***efficient*** code.
-- 📫 How to reach me through my Gmail Id ***sorabhkumadeveloper@gmail.com***.<br>
+- 👀 I’m interested in ***Programming*** and ***Software development***.
+- 🌱 I’m currently learning ***DSA*** to improve my ***logical thinking*** and writing ***efficient*** code.
+- 📫 You can reach me out through my Gmail Id ***sorabhkumardeveloper@gmail.com***.<br>
 > ***✍️ More about myself :-***<br>
->>I completed my ***HighSchool*** and ***Senior Secondry*** from ***Gautam Budh inter college mulhipur*** saharanpur(247001)India.
+>>I completed my ***HighSchool*** and ***Senior Secondary*** from ***Gautam Budh inter college mulhipur*** saharanpur(247001)India.
 I completed my ***Polytechnic*** from ***Dev bhoomi group of institutions saharanpur*** with ***74%*** marks in ***2021***.
-i joined ***stylework*** as ***Android Developer intern*** at ***27 Jan 2022*** to ***27 Apr 2022*** after my internship i joined ***stylework*** full time ***Android Developer*** at 28 Apr 2022 to now. Currently i learning ***DSA*** and learning more about ***android app developement***.
+i joined ***stylework*** as ***Android Developer intern*** at ***27 Jan 2022*** to ***27 Apr 2022*** after my internship i joined ***stylework*** full time as ***Android Developer*** at 28 Apr 2022 to now. Currently i learning ***DSA*** and learning more about ***android app developement***.
 
 >***📒 Last Note :-*** <br>
 >> *It's always difficult to keep motiveting myself but there always something that push me to do hardwork do stuff , learn new thinhgs .so i keep running to my goals i know its difficult but not so difficult there always hope to break the traditional rules and create somthing bigger then every thing.*
