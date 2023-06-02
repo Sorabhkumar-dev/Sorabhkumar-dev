@@ -22,6 +22,10 @@ i joined ***stylework*** as ***Android Developer intern*** at ***27 Jan 2022*** 
 > #### 💼 *My personal project* <br>
 >>checkout my personal project that i built for gaining knowledge and practicing my codding skill👇.<br>
 
+> #### <img src="https://github.com/Sorabhkumar-dev/Sorabhkumar-dev/assets/96188190/d280cc0b-b159-4c49-9a67-f2c216287036" alt="Resume icon " height="40" width="40"/> *My Resume* 
+👉[download here](https://drive.google.com/file/d/1sS40PpYQEgualZqrzOd_Qm2fjYIP0JY5/view?usp=drive_link).</br>
+
+
 1.🍽️  Food Odering App  👉[Try-out here](https://drive.google.com/file/d/1Ift13WrC4Hiz_Q9ipGs-2s2AgnjibbWN/view?usp=drivesdk).</br>
  <img src="https://github.com/Sorabhkumar-dev/food-odering-app/blob/main/app/src/main/res/drawable/ic_grab_food.png" alt="E-Commerce Store " height="200"/></br>
 *Check-out here ↪️ **[Grab food](https://github.com/Sorabhkumar-dev/food-odering-app)***</br>
