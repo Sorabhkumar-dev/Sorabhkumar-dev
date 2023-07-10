@@ -51,6 +51,7 @@ i joined ***stylework*** as ***Android Developer intern*** at ***27 Jan 2022*** 
     
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -62,7 +63,8 @@ i joined ***stylework*** as ***Android Developer intern*** at ***27 Jan 2022*** 
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-Native%20UI-blue)
 ![Jetpack Components](https://img.shields.io/badge/Jetpack%20Components-Modern%20Android%20Development%20Tools-bl)
 ![Coroutine](https://img.shields.io/badge/Coroutines-asynchronous%20Programming-lightgrey)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB).
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
     </td>
  </tr>
   <tr>
