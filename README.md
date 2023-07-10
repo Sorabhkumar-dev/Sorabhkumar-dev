@@ -62,6 +62,7 @@ i joined ***stylework*** as ***Android Developer intern*** at ***27 Jan 2022*** 
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-Native%20UI-blue)
 ![Jetpack Components](https://img.shields.io/badge/Jetpack%20Components-Modern%20Android%20Development%20Tools-bl)
 ![Coroutine](https://img.shields.io/badge/Coroutines-asynchronous%20Programming-lightgrey)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB).
     </td>
  </tr>
   <tr>
