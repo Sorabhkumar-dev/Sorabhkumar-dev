@@ -1,85 +1,164 @@
-<div id="header" align="center">
-  <img src="https://www.puttiapps.com/services/web-development/programming/" width="200"/><br>
- <h3><i><b>Sorabh Kumar  👋</b></i></h3>
- 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sorabhkumar-dev/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/this_sorabh/?hl=en)
-[![Github](https://img.shields.io/github/followers/Sorabhkumar-dev?label=Follow&style=social)](https://github.com/Sorabhkumar-dev)
-![](https://komarev.com/ghpvc/?username=Sorabhkumar-dev&label=PROFILE+VIEWS)
-</div>
+<h1 align="center">Hi, I'm Sorabh Kumar 👋</h1>
 
-- 👋 Hi, I’m ***Sorabh Kumar*** I'm working as ***SDE*** at ***Stylework innovation***.
-- 👀 I’m interested in ***Programming*** and ***Software development***.
-- 🌱 I’m currently learning ***DSA*** to improve my ***logical thinking*** and writing ***efficient*** code.
-- 📫 You can reach me out through my Gmail Id ***sorabhkumardeveloper@gmail.com***.<br><br>
+<p align="center">
+  <b>Java Backend Engineer · Android & KMP Developer · AI/LLM Builder</b><br/>
+  4+ years shipping production systems at scale — backends, mobile apps, and agentic AI workflows
+</p>
 
-***✍️ More about myself ➩***<br>
->I completed my ***HighSchool*** and ***Senior Secondary*** from ***Gautam Budh inter college mulhipur*** saharanpur(247001)India.
-I completed my ***Polytechnic*** from ***Dev bhoomi group of institutions saharanpur*** with ***74%*** marks in ***2021***.
-i joined ***stylework*** as ***Android Developer intern*** at ***27 Jan 2022*** to ***27 Apr 2022*** after my internship i joined ***stylework*** full time as ***Android Developer*** at 28 Apr 2022 to now. Currently i learning ***DSA*** and learning more about ***android app developement***. I also have sound knowledge of ***SQL*** and ***MERN*** stack.<br>
+<p align="center">
+  <a href="mailto:sorabhkumardev@gmail.com"><img src="https://img.shields.io/badge/Email-sorabhkumardev%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/sorabhkumar"><img src="https://img.shields.io/badge/LinkedIn-Sorabh%20Kumar-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/sorabhkumar"><img src="https://img.shields.io/badge/GitHub-sorabhkumar-181717?style=flat&logo=github&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Location-Gurugram%2C%20India-brightgreen?style=flat&logo=googlemaps&logoColor=white"/>
+</p>
 
-***📒 Notes ➩*** <br>
->*It's always difficult to keep motiveting myself but there always something that push me to do hardwork do stuff , learn new thinhgs .so i keep running to my goals i know its difficult but not so difficult there always hope to break the traditional rules and create somthing bigger then every thing.*
+---
 
-<div id="header" align="center">
+## 🧠 About Me
 
-#### 🛠️ *Languages and Tools* 
-<b style="font-size:30px"> Languages </b><br>
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+I'm a full-stack builder who works across **Java microservices on the backend** and **Kotlin/KMP on mobile** — often on the same product. At StyleWork (4+ years), I owned features end-to-end: from designing PostgreSQL schemas and Spring Security configs, to shipping production Android releases on Google Play.
 
-<b style="font-size:30px"> Development tools </b><br>
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Android studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![InteliJ Idea](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+Lately I've been deep into practical AI — building **RAG pipelines**, **LLM-powered automation with n8n**, and **OpenAI integrations** that cut real operational overhead (not just demos).
 
-<b style="font-size:30px"> Frameworks and libraries </b><br>
-![Android Development](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)</br>
-![Dagger Hilt](https://img.shields.io/badge/Dggaer%20hilt-DI-green)
-![Retrofit](https://img.shields.io/badge/Retrofit-Api%20Call-green)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-Native%20UI-blue)
-![Jetpack Components](https://img.shields.io/badge/Jetpack%20Components-Modern%20Android%20Development%20Tools-bl)
-![Coroutine](https://img.shields.io/badge/Coroutines-asynchronous%20Programming-lightgrey)
+---
 
-<b style="font-size:30px"> Databases </b><br>
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+## 🔧 Tech Stack
+
+<table>
+  <tr>
+    <td valign="top" width="33%">
+
+### ☕ Backend
+<div align="center">
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 
 </div>
+    </td>
+    <td valign="top" width="33%">
 
-***💼 My personal project ➩*** <br>
->I developed many projects in android as well as some in frontend and backend developement using React. I given repository link below please provide your feedback.these projects are also open for contribution.👇
+### 📱 Mobile
+<div align="center">
 
-1. 🍽️  Food Odering App  👉 [Try-out here](https://drive.google.com/file/d/1Ift13WrC4Hiz_Q9ipGs-2s2AgnjibbWN/view?usp=drivesdk).</br>
-*Check-out here  :arrow_right: **[Grab food](https://github.com/Sorabhkumar-dev/food-odering-app)***</br>
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=android&logoColor=white)
+![KMP](https://img.shields.io/badge/KMP-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=black)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-000000?style=for-the-badge&logo=swift&logoColor=white)
+![Room](https://img.shields.io/badge/Room_DB-4285F4?style=for-the-badge&logo=android&logoColor=white)
+![Retrofit](https://img.shields.io/badge/Retrofit-48B983?style=for-the-badge&logo=android&logoColor=white)
+![Dagger Hilt](https://img.shields.io/badge/Hilt-D32F2F?style=for-the-badge&logo=android&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-2. 🛒  E-Commerce Store App  👉 [Try-out here](https://drive.google.com/file/d/1zDxYUWhx0HmgeGfGyDCJETA7R0fKALCo/view?usp=drivesdk).</br>
-*Check-out here  :arrow_right: **[Truly mart](https://github.com/Sorabhkumar-dev/mvvm-using-usecase-and-flow)***</br>
+</div>
+    </td>
+    <td valign="top" width="33%">
 
-3. 📱  Social Media App  👉 [Try-out here](https://drive.google.com/file/d/1zFj6BTBe6s_aA-wWKXp-RH19vizLLR_W/view?usp=drivesdk).</br>
- *Check-out here  :arrow_right: **[Truly social](https://github.com/Sorabhkumar-dev/social-media-app)***</br>
+### 🤖 AI / LLM
+<div align="center">
 
-4. :information_desk_person: Personal indiviual introduction portfolio website<br>
-*Check-out here  :arrow_right: **[Personl Web](https://github.com/Sorabhkumar-dev/personal-intro-portfolio-website)***</br>
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG_Pipelines-FF6B6B?style=for-the-badge&logoColor=white)
+![Vector DB](https://img.shields.io/badge/Vector_Databases-00C7B7?style=for-the-badge&logoColor=white)
+![Embeddings](https://img.shields.io/badge/Embedding_Models-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-FF4B4B?style=for-the-badge&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Zoho CRM](https://img.shields.io/badge/Zoho_CRM-E42527?style=for-the-badge&logo=zoho&logoColor=white)
 
-5. :newspaper: News portfolio website<br>
-*Check-out here  :arrow_right: **[News Web](https://github.com/Sorabhkumar-dev/truly-news-react-web)***</br>
+</div>
+    </td>
+  </tr>
+</table>
 
-6. :school: College Backend<br>
-*Check-out here  :arrow_right: **[College Backend](https://github.com/Sorabhkumar-dev/college-management-backend)***</br>
+---
 
-***🗒 My Resume*** 
-👉[download here](https://drive.google.com/file/d/1sS40PpYQEgualZqrzOd_Qm2fjYIP0JY5/view?usp=drive_link).</br>
+## 🚀 What I've Built
+
+### 🏢 CRM Platform *(Spring Boot · PostgreSQL · Redis · JWT · Docker)*
+A full-featured enterprise CRM for lead management, sales pipelines, and business workflows.
+- JWT auth + RBAC with data isolation across multiple tenants
+- Normalized DB schemas with strategic indexing for low-latency reads
+- Paginated, filterable REST endpoints with Swagger/OpenAPI docs
+
+### 📦 Sorabhk SaaS Platform *(Spring Boot · PostgreSQL · Redis · Microservices)*
+Multi-module SaaS backend combining task management and blogging with shared auth.
+- Sub-100ms response times under load via Redis caching + query tuning
+- Refresh token rotation, role-based route protection, end-to-end JWT lifecycle
+
+### 🍔 Food Delivery App *(Kotlin · Jetpack Compose · MVVM · Room · Retrofit)*
+Full-stack Android app — restaurant discovery, cart, real-time order tracking, push notifications.
+- JWT-secured APIs + offline persistence via Room
+- Coroutine-based concurrency for measurably faster screen load times
+- [GitHub →](https://github.com/sorabhkumar)
+
+### 📱 Enterprise CRM App *(KMP · Ktor · SQLDelight · Jetpack Compose · SwiftUI)*
+Cross-platform CRM sharing **70%+ business logic** between Android and iOS via Kotlin Multiplatform.
+- Shared KMP modules: networking, persistence, lead tracking, real-time sync
+- Full feature parity on both platforms with an offline-first data strategy
+- [GitHub →](https://github.com/sorabhkumar)
+
+---
+
+## 📊 Highlights & Numbers
+
+| Metric | Result |
+|---|---|
+| APK size reduction | **61%** (23 MB → 9 MB) |
+| UI codebase reduction via Design Language System | **20%** |
+| Cold-start improvement | **15%** via lazy initialization |
+| Hot-start improvement | **20%** via singleton patterns |
+| Operational overhead cut via LLM automation | **~40%** |
+| DSA problems solved | **400+** (LeetCode / GFG) |
+| XML screens migrated to Jetpack Compose | **50+** |
+
+---
+
+## 💼 Experience
+
+**Software Engineer — Backend & Android** · *StyleWork Innovation Hub, Gurugram*
+`Jan 2022 – May 2026`
+
+- Architected Spring Boot microservices handling production-grade traffic
+- Built RAG pipeline using OpenAI Embeddings + vector DB for semantic document search
+- Automated business workflows with n8n, webhooks, and Zoho CRM LLM integration
+- Migrated 50+ screens from XML to Jetpack Compose; built a full Design Language System
+- Owned end-to-end delivery to Google Play Store and Apple App Store
+- Contributed to iOS codebase — SwiftUI components + Alamofire API integration
+
+---
+
+## 🎓 Education
+
+**B.Tech, Information Technology** — IIMT College of Engineering / AKTU, Saharanpur · CGPA: 6.8
+**Diploma, Computer Science** — Dev Bhoomi Institute / UPBTE, Saharanpur · 74%
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sorabhkumar&show_icons=true&theme=dark&hide_border=true&count_private=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sorabhkumar&layout=compact&theme=dark&hide_border=true" height="160"/>
+</p>
+
+---
+
+<p align="center">
+  <i>Open to backend, mobile, or full-stack roles where I can own things end-to-end.</i><br/>
+  <b>sorabhkumardev@gmail.com</b>
+</p>
