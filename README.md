@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="mailto:sorabhkumardev@gmail.com"><img src="https://img.shields.io/badge/Email-sorabhkumardev%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/sorabhkumar"><img src="https://img.shields.io/badge/LinkedIn-Sorabh%20Kumar-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/sorabhkumar-dev/"><img src="https://img.shields.io/badge/LinkedIn-Sorabh%20Kumar-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/sorabhkumar"><img src="https://img.shields.io/badge/GitHub-sorabhkumar-181717?style=flat&logo=github&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Location-Gurugram%2C%20India-brightgreen?style=flat&logo=googlemaps&logoColor=white"/>
 </p>
